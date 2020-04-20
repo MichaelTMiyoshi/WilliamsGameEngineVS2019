@@ -7,6 +7,29 @@ After working through this tutorial you’ll be able to use the skills you’ve lear
 
 See Game Engine Tutorial.pdf for a full step-by-step tutorial.
 
+## Setup in VS2019
+
+### Option #1: clone from GitHub with VS2019
+
+1) Launch VS2019
+1) Click “Clone or check out code”
+1) Paste in https://github.com/MichaelTMiyoshi/WilliamsGameEngineVS2019.git and click Clone
+1) After it finishes cloning, open Solution Explorer with View -> Solution Explorer
+1) Open Base Project -> MyGame and double-click MyGame.sln
+1) This should open the solution and the tool bar should now contain a run button with “Debug, Win32, Local Windows Debugger”.
+1) Press play and see it compile and run, showing a blank window ready for the tutorial to start.
+
+### Option #2: download a .zip file
+
+1) Go to https://github.com/MichaelTMiyoshi/WilliamsGameEngineVS2019
+1) Click on the green “Clone or Download”
+1) Click on “Download Zip” to download a copy of the repository
+1) Unzip the files to wherever you’d like.
+1) Navigate to Base Project -> MyGame within the new directory and double-click MyGame.sln.
+1) This should open the solution and the tool bar should now contain a run button with “Debug, Win32, Local Windows Debugger”.
+1) Press play and see it compile and run, showing a blank window ready for the tutorial to start.
+
+
 ## Updates to the Tutorial
 
 No modifications to the VS Project are needed after copying this directory to your computer.
