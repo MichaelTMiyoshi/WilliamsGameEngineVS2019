@@ -1,8 +1,9 @@
 Another couple notes (from Miyoshi) about the tutorial:
 
 There are a couple typos in the tutorial.  They are there for two reasons.
-     1) I did not want to edit the PDF file.
-     2) I like people to think about what they are doing rather than mindlessly type.
+
+1. I did not want to edit the PDF file.
+1. I like people to think about what they are doing rather than mindlessly type.
 
 You will need to know at least a little about classes to do the tutorial.  And of course, you will need the fundamentals of programming in C++ that we have been learning in class (and at home).
 
