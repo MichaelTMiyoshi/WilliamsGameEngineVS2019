@@ -86,8 +86,14 @@
     <ClCompile Include="Engine\Game.cpp" />
     <ClCompile Include="Engine\GameObject.cpp" />
     <ClCompile Include="Engine\Scene.cpp" />
+    <ClCompile Include="Explosion.cpp" />
     <ClCompile Include="GameScene.cpp" />
+    <ClCompile Include="Laser.cpp" />
+    <ClCompile Include="Meteor.cpp" />
+    <ClCompile Include="MeteorSpawner.cpp" />
     <ClCompile Include="MyGame.cpp" />
+    <ClCompile Include="Score.cpp" />
+    <ClCompile Include="Ship.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Engine\AnimatedSprite.h" />
@@ -95,7 +101,13 @@
     <ClInclude Include="Engine\GameEngine.h" />
     <ClInclude Include="Engine\GameObject.h" />
     <ClInclude Include="Engine\Scene.h" />
+    <ClInclude Include="Explosion.h" />
     <ClInclude Include="GameScene.h" />
+    <ClInclude Include="Laser.h" />
+    <ClInclude Include="meteor.h" />
+    <ClInclude Include="MeteorSpawner.h" />
+    <ClInclude Include="Score.h" />
+    <ClInclude Include="ship.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\README.md" />
