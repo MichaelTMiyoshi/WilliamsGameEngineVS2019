@@ -35,3 +35,5 @@ void GameObject::setCollisionCheckEnabled(bool isCollisionCheckEnabled)
 {
 	isCollisionCheckEnabled_ = isCollisionCheckEnabled;
 }
+
+// Dummy change for playing around with Git.

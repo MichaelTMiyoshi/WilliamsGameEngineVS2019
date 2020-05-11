@@ -22,6 +22,8 @@ sf::RenderWindow& Game::getRenderWindow()
 	return window_;
 }
 
+// Dummy change for playing around with Git
+
 // Get a texture (pixels) from a file
 sf::Texture& Game::getTexture(std::string fileName)
 {
