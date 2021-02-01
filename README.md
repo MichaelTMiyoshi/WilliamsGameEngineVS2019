@@ -1,9 +1,9 @@
 # Game Engine Tutorial
-*Mr. Miyoshiís Beginning Programming / Game Programming Class*
+*Mr. Miyoshi‚Äôs Beginning Programming / Game Programming Class*
 
 This tutorial will walk you through the process of creating your own game, starting with a barebones project and building up to a 
-complete game with user input, game objects, collisions, and more. Along the way weíll explore each piece of the game in-depth. 
-After working through this tutorial youíll be able to use the skills youíve learned to make any kind of game youíd like.
+complete game with user input, game objects, collisions, and more. Along the way we‚Äôll explore each piece of the game in-depth. 
+After working through this tutorial you‚Äôll be able to use the skills you‚Äôve learned to make any kind of game you‚Äôd like.
 
 See Game Engine Tutorial.pdf for a full step-by-step tutorial.
 
@@ -11,22 +11,23 @@ See Game Engine Tutorial.pdf for a full step-by-step tutorial.
 
 ### Option #1: clone from GitHub with VS2019
 
+1) Make sure you are logged into GitHub.  Fork this repository, by clicking the FORK button in the upper right of this web page.
 1) Launch VS2019
-1) Click ìClone or check out codeî
-1) Paste in https://github.com/MichaelTMiyoshi/WilliamsGameEngineVS2019.git and click Clone
+1) Click ‚ÄúClone or check out code‚Äù
+1) Paste in https://github.com/[Your GitHub Username]/WilliamsGameEngineVS2019.git and click Clone
 1) After it finishes cloning, open Solution Explorer with View -> Solution Explorer
 1) Open Base Project -> MyGame and double-click MyGame.sln
-1) This should open the solution and the tool bar should now contain a run button with ìDebug, Win32, Local Windows Debuggerî.
+1) This should open the solution and the tool bar should now contain a run button with ‚ÄúDebug, Win32, Local Windows Debugger‚Äù.
 1) Press play and see it compile and run, showing a blank window ready for the tutorial to start.
 
-### Option #2: download a .zip file
+### Option #2 (Only use this option if you are not using GitHub): download a .zip file
 
 1) Go to https://github.com/MichaelTMiyoshi/WilliamsGameEngineVS2019
-1) Click on the green ìClone or Downloadî
-1) Click on ìDownload Zipî to download a copy of the repository
-1) Unzip the files to wherever youíd like.
+1) Click on the green ‚ÄúClone or Download‚Äù
+1) Click on ‚ÄúDownload Zip‚Äù to download a copy of the repository
+1) Unzip the files to wherever you‚Äôd like.
 1) Navigate to Base Project -> MyGame within the new directory and double-click MyGame.sln.
-1) This should open the solution and the tool bar should now contain a run button with ìDebug, Win32, Local Windows Debuggerî.
+1) This should open the solution and the tool bar should now contain a run button with ‚ÄúDebug, Win32, Local Windows Debugger‚Äù.
 1) Press play and see it compile and run, showing a blank window ready for the tutorial to start.
 
 
