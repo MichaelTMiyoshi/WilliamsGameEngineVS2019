@@ -14,7 +14,7 @@ See Game Engine Tutorial.pdf for a full step-by-step tutorial.
 1) Make sure you are logged into your GitHub account.  Fork this repo by clicking on the Fork button in the top right corner of this web page.  This will make an exact copy of this repository in your own GitHub account.  (Note: This step does not pull the repository down to your local computer.)
 1) Launch VS2019.
 1) Click “Clone or check out code”
-1) Paste in `https://github.com/[Your GitHub username]/WilliamsGameEngineVS2019.git` and click Clone
+1) Paste in `https://github.com/[Your GitHub username]/WilliamsGameEngineVS2019.git` and click Clone.  (You can get the link by going to your forked repository on your GitHub account, and pressing the copy link button.)
 1) After it finishes cloning, open Solution Explorer with View -> Solution Explorer
 1) Open Base Project -> MyGame and double-click MyGame.sln
 1) This should open the solution and the tool bar should now contain a run button with “Debug, Win32, Local Windows Debugger”.
