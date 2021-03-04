@@ -22,7 +22,7 @@ See Game Engine Tutorial.pdf for a full step-by-step tutorial.
 
 ### Option #2 (only use this option if you are NOT using GitHub): download a .zip file
 
-1) Go to https://github.com/MichaelTMiyoshi/WilliamsGameEngineVS2019
+1) Go to [https://github.com/MichaelTMiyoshi/WilliamsGameEngineVS2019](https://github.com/MichaelTMiyoshi/WilliamsGameEngineVS2019)
 1) Click on the green “Clone or Download”
 1) Click on “Download Zip” to download a copy of the repository
 1) Unzip the files to wherever you’d like.
@@ -33,8 +33,15 @@ See Game Engine Tutorial.pdf for a full step-by-step tutorial.
 
 ## Updates to the Tutorial
 
-No modifications to the VS Project are needed after copying this directory to your computer.
+No modifications to the VS Project are needed after forking and cloning this repository to your computer.
+
 You can skip any mention of SFMLProjectModification.docx, and no changes are needed to any compiler or linker options.
+
+You can ignore the references to the H:\ drive.
+
+You do not need to move the art as instructed.  They are in the resources folder (Base project/MyGame/MyGame).
+
+There is a link to a sprite sheet making website.  That website was no longer running as a sprite sheet maker.  If you decide to make sprites for your own game, you can look up [piskel](https://www.piskelapp.com), which was running at the time of this writing.
 
 ## Credits
 
