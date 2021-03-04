@@ -41,7 +41,7 @@ You can ignore the references to the H:\ drive.
 
 You do not need to move the art as instructed.  They are in the resources folder (Base project/MyGame/MyGame).
 
-There is a link to a sprite sheet making website.  That website was no longer running as a sprite sheet maker.  If you decide to make sprites for your own game, you can look up [piskel](https://www.piskelapp.com), which was running at the time of this writing.
+There is a link to a sprite sheet making website.  That website was no longer running as a sprite sheet maker.  If you decide to make sprites for your own game, you can look up piskel or click on this link [piskel](https://www.piskelapp.com), which was running at the time of this writing.
 
 ## Credits
 
