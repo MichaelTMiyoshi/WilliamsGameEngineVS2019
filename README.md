@@ -7,6 +7,10 @@ After working through this tutorial you’ll be able to use the skills you’ve 
 
 See Game Engine Tutorial.pdf for a full step-by-step tutorial.
 
+### Background
+
+When you get to the end of the tutorial, there is one more step.  That step is not included in the tutorial, but the art is.  (I thought the tutorial had a section about this, but I was either mistaken or I misplaced that tutorial version.)  The art is for a scrolling background.  (It is called background.png.)  Use what you have learned from the tutorial to create a seemless scrolling background.  All you are doing is placing a sprite on the screen.  Two actually.  But you only need to create one class for the object.  You can even name the object background.  The background images will move to the left so it appears that the ship moves through space to the right.  You have all the tools you need to create this background.  One last note: this step could make your game go very slowly.  If it does, just take it out.  Which brings me to one final note.  You should already be aware, but there is an order to what is drawn on the screen.  Pay attention to that order or you might think that things have disappeared when you place the background.
+
 ## Setup in VS2019
 
 ### Option #1: clone from GitHub with VS2019
